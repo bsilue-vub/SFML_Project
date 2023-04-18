@@ -1,2 +1,2 @@
 # Group Project: Statistical Foundations of Machine Learning
-This project sets forth a research report in the form of a Python Jupyter Notebook addressing three research questions on the topic of Machine Learning.
+This project sets forth a research report in the form of three Python Jupyter Notebooks, each addressing a research question on the topic of Machine Learning. 
