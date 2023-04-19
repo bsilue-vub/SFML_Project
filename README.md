@@ -1,4 +1,4 @@
-# Statistical Foundations of Machine Learning -  Project
+# Statistical Foundations of Machine Learning - Project
 
 ## Authors
 
@@ -15,4 +15,4 @@ This project sets forth a research report in the form of a Python Jupyter Notebo
 2. _second research question_ 
 3. _third research question_ 
 
-The code for the project can be found [here](code/project.ipynb). Each research question is also provided separately in its own respective folder inside the `code` directory.
+The code for the project can be found [here](code/project.ipynb). Each research question is also provided separately in its own folder inside the `code` directory.
